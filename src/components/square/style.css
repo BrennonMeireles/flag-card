@@ -1,0 +1,15 @@
+.square{
+    width: 200px;
+    height: 200px;
+    /* background-color: blueviolet; */
+    border: solid 1px;
+    margin: 5%;
+}
+
+.square-red {
+    background-color: red;
+}
+.square-green {
+    background-color: green;
+}
+
